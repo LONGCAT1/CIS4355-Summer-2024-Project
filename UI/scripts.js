@@ -1,4 +1,4 @@
-const apiUrl = "https://b9w315cd65.execute-api.us-east-1.amazonaws.com/test/"
+const apiUrl = "https://1z19l0r185.execute-api.us-east-1.amazonaws.com/test/"
 
 
 // Function to show/hide the loading spinner
